@@ -1,2 +1,2 @@
 # WatsonML-realtimescoring
-This is an example of Watson ML Real Time scoring using R
+This is an implementation of Watson ML Real Time scoring using R.
